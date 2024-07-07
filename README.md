@@ -4,8 +4,8 @@ Welcome to my project where I conducted an in-depth Exploratory Data Analysis (E
 📁 Project Structure
 The repository is structured as follows:
 
-data/: Contains the raw and cleaned data files.
-notebooks/: Jupyter notebooks documenting the data analysis process.
+Superstore_USA: Contains the raw and cleaned data files.
+EDA: Jupyter notebooks documenting the data analysis process.
 visualizations/: Generated plots and visualizations from the analysis.
 README.md: Project overview and details.
 
