@@ -29,14 +29,19 @@ Tracked monthly and seasonal sales trends to optimize inventory and marketing ef
 Utilized advanced visualization tools to create interactive and insightful dashboards.
 
 💡 Key Insights
-Shipping Mode: The majority of orders use regular air shipping. Increasing partnerships with regular air delivery partners could enhance profit margins.
-Customer Demographics: Most customers are corporate. Introducing new products related to corporate needs could boost sales.
-Product Categories: Sales in Furniture and Technology categories are lower compared to Office Supplies. Introducing new offers could increase sales in these categories.
-Product Margins: Margins for Technology and Furniture are lower compared to Office Supplies. To increase profits, cost-cutting measures in these categories are necessary.
+1. Shipping Mode: The majority of orders use regular air shipping. Increasing partnerships with regular air delivery partners could enhance profit margins.
+
+2. Customer Demographics: Most customers are corporate. Introducing new products related to corporate needs could boost sales.
+
+3. Product Categories: Sales in Furniture and Technology categories are lower compared to Office Supplies. Introducing new offers could increase sales in these categories.
+
+4. Product Margins: Margins for Technology and Furniture are lower compared to Office Supplies. To increase profits, cost-cutting measures in these categories are necessary.
+
 📈 Tools and Technologies Used
 Python: For data manipulation and analysis using pandas and NumPy.
 Matplotlib & Seaborn: For creating detailed and informative visualizations.
 Jupyter Notebook: For documenting the analysis process and findings.
+
 📊 Visualizations
 Visualizations generated during the analysis are stored in the visualizations/ directory. These include:
 
